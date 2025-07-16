@@ -1,0 +1,23 @@
+{
+  "cards" : {
+    "What should I know about Bug type?" : "Strong against: Grass, Psychic, Dark | Not effective against: Fire, Fighting, Poison, Flying, Ghost, Steel, Fairy | Weak to: Fire, Flying, Rock | Resists: Grass, Fighting, Ground",
+    "What should I know about Dark type?" : "Strong against: Psychic, Ghost | Not effective against: Fighting, Dark, Fairy | Weak to: Fighting, Bug, Fairy | Resists: Ghost, Dark, Psychic (no effect)",
+    "What should I know about Dragon type?" : "Strong against: Dragon | Not effective against: Steel, Fairy (no effect) | Weak to: Ice, Dragon, Fairy | Resists: Fire, Water, Electric, Grass",
+    "What should I know about Electric type?" : "Strong against: Water, Flying | Not effective against: Electric, Grass, Dragon, Ground (no effect) | Weak to: Ground | Resists: Electric, Flying, Steel",
+    "What should I know about Fairy type?" : "Strong against: Fighting, Dragon, Dark | Not effective against: Fire, Poison, Steel | Weak to: Poison, Steel | Resists: Fighting, Bug, Dark, Dragon (no effect)",
+    "What should I know about Fighting type?" : "Strong against: Normal, Ice, Rock, Dark, Steel | Not effective against: Flying, Psychic, Bug, Fairy, Ghost (no effect) | Weak to: Flying, Psychic, Fairy | Resists: Bug, Rock, Dark",
+    "What should I know about Fire type?" : "Strong against: Grass, Ice, Bug, Steel | Not effective against: Fire, Water, Rock, Dragon | Weak to: Water, Ground, Rock | Resists: Fire, Grass, Ice, Bug, Steel, Fairy",
+    "What should I know about Flying type?" : "Strong against: Grass, Fighting, Bug | Not effective against: Electric, Rock, Steel | Weak to: Electric, Ice, Rock | Resists: Grass, Fighting, Bug, Ground (no effect)",
+    "What should I know about Ghost type?" : "Strong against: Psychic, Ghost | Not effective against: Dark, Normal (no effect) | Weak to: Ghost, Dark | Resists: Poison, Bug, Normal (no effect), Fighting (no effect)",
+    "What should I know about Grass type?" : "Strong against: Water, Ground, Rock | Not effective against: Fire, Grass, Poison, Flying, Bug, Dragon, Steel | Weak to: Fire, Ice, Poison, Flying, Bug | Resists: Water, Electric, Grass, Ground",
+    "What should I know about Ground type?" : "Strong against: Fire, Electric, Poison, Rock, Steel | Not effective against: Grass, Bug, Flying (no effect) | Weak to: Water, Grass, Ice | Resists: Poison, Rock, Electric (no effect)",
+    "What should I know about Ice type?" : "Strong against: Grass, Ground, Flying, Dragon | Not effective against: Fire, Water, Ice, Steel | Weak to: Fire, Fighting, Rock, Steel | Resists: Ice",
+    "What should I know about Normal type?" : "Not effective against: Rock, Steel, Ghost (no effect) | Weak to: Fighting | Resists: Ghost (no effect)",
+    "What should I know about Poison type?" : "Strong against: Grass, Fairy | Not effective against: Poison, Ground, Rock, Ghost, Steel (no effect) | Weak to: Ground, Psychic | Resists: Grass, Poison, Bug, Fairy",
+    "What should I know about Psychic type?" : "Strong against: Fighting, Poison | Not effective against: Psychic, Steel, Dark (no effect) | Weak to: Bug, Ghost, Dark | Resists: Fighting, Psychic",
+    "What should I know about Rock type?" : "Strong against: Fire, Ice, Flying, Bug | Not effective against: Fighting, Ground, Steel | Weak to: Water, Grass, Fighting, Ground, Steel | Resists: Normal, Fire, Poison, Flying",
+    "What should I know about Steel type?" : "Strong against: Ice, Rock, Fairy | Not effective against: Fire, Water, Electric, Steel | Weak to: Fire, Fighting, Ground | Resists: Normal, Grass, Ice, Flying, Psychic, Bug, Rock, Dragon, Steel, Fairy, Poison (no effect)",
+    "What should I know about Water type?" : "Strong against: Fire, Ground, Rock | Not effective against: Water, Grass, Dragon | Weak to: Electric, Grass | Resists: Fire, Water, Ice, Steel"
+  },
+  "name" : "type summary simplified"
+}
